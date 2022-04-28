@@ -1,0 +1,11 @@
+body {
+  padding-top: 70px;
+}
+
+.background-container {
+  scroll-behavior: smooth;
+  background: #403440;
+  min-height: 100vh;
+  height: fit-content;
+}
+
